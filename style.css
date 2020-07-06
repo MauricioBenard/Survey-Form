@@ -1,0 +1,57 @@
+body{
+  text-align: center;
+  font-family:helvetica;
+    background-image: url("https://cdn.pixabay.com/photo/2016/08/18/12/16/temple-1602809_960_720.jpg");
+   background-repeat: no-repeat;
+   background-size:auto;
+   background-size:2000px 2100px;
+      
+}
+#body{
+  width:500px;
+  padding:20px;
+  margin:auto;
+  border-radis:10px;
+  text-align:left;
+  background-color:rgb(0, 0, 0, 0.6);
+  font-size:20px;
+  color:white;
+}
+
+#name{
+  width:400px;
+  padding:15px;
+  border-radius:10px;
+}
+#email{
+ width:400px;
+ padding:15px;
+ border-radius:10px; 
+}
+#number{
+ width:400px;
+ padding:15px;
+ border-radius:10px;  
+}
+#dropdown{
+ width:400px;
+ padding:15px;
+ border-radius:10px;  
+}
+#comment{
+  width:350px;
+  padding:10px;
+  border-radius:10px;
+  border:none;
+}
+#submit{
+ width:350px;
+ padding:15px;
+ font-size:20px;
+ border-radius:10px; 
+  border:none;
+  margin-top:3%;
+  color:white;
+  background-color:green;
+  
+}
